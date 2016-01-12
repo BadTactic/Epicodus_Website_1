@@ -1,0 +1,20 @@
+h1 {color: red;
+  font-family: fantasy;
+
+}
+h3 {font-family: fantasy;
+  font-weight: bolder;
+
+}
+
+img {
+  margin-left: 200px;
+
+}
+
+li {
+   font-weight: lighter;
+   font-style: italic;
+   line-height: 30px;
+
+}
